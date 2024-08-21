@@ -4,7 +4,7 @@
 
 class Connect {
     protected static $servername = "localhost";
-    protected static $db_name="twitter";
+    protected static $db_name="twitter_trial";
     protected static $username = "root";
     protected static $password = "";
     protected static $pdo;
