@@ -2,7 +2,7 @@
 // useless connection before i try to use class 
 
 // $servername = "localhost";
-// $db_name="twitter";
+// $db_name="twitter_trail";
 // $username = "root";
 // $password = "";
 
